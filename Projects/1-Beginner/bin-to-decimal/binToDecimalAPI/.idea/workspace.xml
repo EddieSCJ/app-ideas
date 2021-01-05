@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57bfb9ce-84d8-466d-9394-adbe48397bc7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mSM8ky8TNygRCOQynCopiqGIXH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Development Student\Documents\Workspace\Javascript\florinpop17\app-ideas\bin-to-decimal\binToDecimalAPI\docs" />
+      <recent name="C:\Users\Development Student\Documents\Workspace\Javascript\florinpop17\app-ideas\bin-to-decimal\binToDecimalAPI\model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Mocha.Should test the binary converter endpoint.Should test the get endpoint">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Should test the binary converter endpoint" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/tests/binaryConverterController.test.js</test-file>
+      <test-names>
+        <name value="Should test the binary converter endpoint" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Should test the binary converter endpoint.Should test the get endpoint" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/tests/binaryConverterController.test.js</test-file>
+      <test-names>
+        <name value="Should test the binary converter endpoint" />
+        <name value="Should test the get endpoint" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="tests\binaryConverterController.test.js" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/tests/binaryConverterController.test.js</test-file>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.Should test the binary converter endpoint.Should test the get endpoint" />
+        <item itemvalue="Mocha.tests\binaryConverterController.test.js" />
+        <item itemvalue="Mocha.Should test the binary converter endpoint" />
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57bfb9ce-84d8-466d-9394-adbe48397bc7" name="Default Changelist" comment="" />
+      <created>1609482382285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609482382285</updated>
+      <workItem from="1609482383383" duration="258000" />
+      <workItem from="1609482657749" duration="1617000" />
+      <workItem from="1609828961984" duration="14926000" />
+      <workItem from="1609854755199" duration="2697000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1345" height="168" key="GridCell.Tab.0.bottom" timestamp="1609854870772">
+      <screen x="3840" y="139" width="1366" height="728" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040/3840.139.1366.728@0.0.1920.1040" timestamp="1609834147832" />
+    <state width="1345" height="168" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040/3840.139.1366.728@3840.139.1366.728" timestamp="1609854870772" />
+    <state width="1345" height="168" key="GridCell.Tab.0.center" timestamp="1609854870772">
+      <screen x="3840" y="139" width="1366" height="728" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040/3840.139.1366.728@0.0.1920.1040" timestamp="1609834147832" />
+    <state width="1345" height="168" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040/3840.139.1366.728@3840.139.1366.728" timestamp="1609854870772" />
+    <state width="1345" height="168" key="GridCell.Tab.0.left" timestamp="1609854870772">
+      <screen x="3840" y="139" width="1366" height="728" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040/3840.139.1366.728@0.0.1920.1040" timestamp="1609834147832" />
+    <state width="1345" height="168" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040/3840.139.1366.728@3840.139.1366.728" timestamp="1609854870772" />
+    <state width="1345" height="168" key="GridCell.Tab.0.right" timestamp="1609854870772">
+      <screen x="3840" y="139" width="1366" height="728" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040/3840.139.1366.728@0.0.1920.1040" timestamp="1609834147832" />
+    <state width="1345" height="168" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040/3840.139.1366.728@3840.139.1366.728" timestamp="1609854870772" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1609854416188">
+      <screen x="3840" y="139" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/1920.0.1536.832/0.0.1920.1040/3840.139.1366.728@3840.139.1366.728" timestamp="1609854416188" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1609854416188">
+      <screen x="3840" y="139" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.center/1920.0.1536.832/0.0.1920.1040/3840.139.1366.728@3840.139.1366.728" timestamp="1609854416188" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1609854416188">
+      <screen x="3840" y="139" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.left/1920.0.1536.832/0.0.1920.1040/3840.139.1366.728@3840.139.1366.728" timestamp="1609854416188" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1609854416188">
+      <screen x="3840" y="139" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.right/1920.0.1536.832/0.0.1920.1040/3840.139.1366.728@3840.139.1366.728" timestamp="1609854416188" />
+    <state width="1345" height="223" key="GridCell.Tab.2.bottom" timestamp="1609854416189">
+      <screen x="3840" y="139" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.2.bottom/1920.0.1536.832/0.0.1920.1040/3840.139.1366.728@3840.139.1366.728" timestamp="1609854416189" />
+    <state width="1345" height="223" key="GridCell.Tab.2.center" timestamp="1609854416188">
+      <screen x="3840" y="139" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.2.center/1920.0.1536.832/0.0.1920.1040/3840.139.1366.728@3840.139.1366.728" timestamp="1609854416188" />
+    <state width="1345" height="223" key="GridCell.Tab.2.left" timestamp="1609854416188">
+      <screen x="3840" y="139" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.2.left/1920.0.1536.832/0.0.1920.1040/3840.139.1366.728@3840.139.1366.728" timestamp="1609854416188" />
+    <state width="1345" height="223" key="GridCell.Tab.2.right" timestamp="1609854416188">
+      <screen x="3840" y="139" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.2.right/1920.0.1536.832/0.0.1920.1040/3840.139.1366.728@3840.139.1366.728" timestamp="1609854416188" />
+    <state width="1345" height="223" key="GridCell.Tab.3.bottom" timestamp="1609854416189">
+      <screen x="3840" y="139" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.3.bottom/1920.0.1536.832/0.0.1920.1040/3840.139.1366.728@3840.139.1366.728" timestamp="1609854416189" />
+    <state width="1345" height="223" key="GridCell.Tab.3.center" timestamp="1609854416189">
+      <screen x="3840" y="139" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.3.center/1920.0.1536.832/0.0.1920.1040/3840.139.1366.728@3840.139.1366.728" timestamp="1609854416189" />
+    <state width="1345" height="223" key="GridCell.Tab.3.left" timestamp="1609854416189">
+      <screen x="3840" y="139" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.3.left/1920.0.1536.832/0.0.1920.1040/3840.139.1366.728@3840.139.1366.728" timestamp="1609854416189" />
+    <state width="1345" height="223" key="GridCell.Tab.3.right" timestamp="1609854416189">
+      <screen x="3840" y="139" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.3.right/1920.0.1536.832/0.0.1920.1040/3840.139.1366.728@3840.139.1366.728" timestamp="1609854416189" />
+    <state x="4168" y="156" key="SettingsEditor" timestamp="1609854413866">
+      <screen x="3840" y="139" width="1366" height="728" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/1920.0.1536.832/0.0.1920.1040/3840.139.1366.728@0.0.1920.1040" timestamp="1609830434114" />
+    <state x="4168" y="156" key="SettingsEditor/1920.0.1536.832/0.0.1920.1040/3840.139.1366.728@3840.139.1366.728" timestamp="1609854413866" />
+  </component>
+</project>
